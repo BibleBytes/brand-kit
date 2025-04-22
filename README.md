@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://mybiblebytes.com/opensource">
-        <img src="./media-photos/biblebites-favicon.png" height="100px"/>
+        <img src="./media-photos/biblebites-favicon-rounded.png" height="100px"/>
         <h1 align="center">BibleBites Brand Kit</h1>
     </a>
 </p>
