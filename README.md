@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://mybiblebytes.com/opensource">
+    <a href="https://getbiblebites.com/opensource">
         <img src="./media-photos/biblebites-favicon-rounded.png" height="100px"/>
         <h1 align="center">BibleBites Brand Kit</h1>
     </a>
